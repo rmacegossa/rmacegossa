@@ -1,16 +1,17 @@
-### Hi there 👋
+# Hey 👋
 
-<!--
-**rmacegossa/rmacegossa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+My name is Rodrigo Macegossa 👩🏼‍🇧🇷
 
-Here are some ideas to get you started:
+Sou desenvolvedor front-end, empreendedor e consultor de serviços digitais com mais de 10 anos de experiência! 💻
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Dei inicio a minha carreira na área de tecnologia em 2008 mas em 2017 entrei como sócio para a construção de uma Agência de Marketing Digital. A Promova-se.
+
+### 🌍 "Quanto mais eu sei, mais eu sou" 🧠
+
+- 💻 Front-End Developer
+- 🌈 Compartilho toda minha jornada no meu [Instagram](https://www.instagram.com/rmacegossa/) 
+
+Siga-me 👇🏼
+
+[![Youtube Badge](https://img.shields.io/badge/-Youtube-FF0000?style=flat-square&labelColor=FF0000&logo=youtube&logoColor=white&link=https://www.youtube.com/channel/UCRhKK6VrISnIWPJjYxBPKnA/videos)](https://www.youtube.com/RodrigoMacegossa) [![Instagram Badge](https://img.shields.io/badge/-Instagram-violet?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/papodedev/)](https://www.instagram.com/rmacegossa/)
+
